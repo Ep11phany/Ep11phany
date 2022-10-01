@@ -1,6 +1,6 @@
 
 <!--
-**zhuml19/zhuml19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ep11phany/Ep11phany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/zhuml19" target="_blank">
+<a href="https://github.com/Ep11phany" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Ep1phanyZ" target="_blank">
@@ -97,13 +97,13 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuml19&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ashitemaru&column=7" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ep11phany&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ep11phany&column=7" align="center" /></div>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zhuml19&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Ep11phany&&style=flat-square" align="center" />
 </div>  
 
 <br />
