@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -  Ph.D. Candidate, Institute of Software, Chinese Academy of Science  
   
 
-- 🔭 Currently working on neural network verification   
+- 🔭 Currently working on Trustworthy AI
   
 
 - 🐠 Have researched in KWS and NLG  
