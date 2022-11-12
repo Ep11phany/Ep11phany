@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### <div align="center">Meilin Zhu</div>  
   
 
-- Class 2023 @ THU CST  
+- 📚 Class 2023 @ THU CST  
   
 
--  Ph.D. Candidate, Institute of Software, Chinese Academy of Science  
+- 👨🏻‍🎓 Ph.D. Candidate, Institute of Software, Chinese Academy of Science  
   
 
 - 🔭 Currently working on Trustworthy AI
@@ -34,6 +34,9 @@ Here are some ideas to get you started:
   
 
 - 🐶 Trying my best to open-source my repos  
+
+
+- 🛡️ ISFJ-t
   
 
 <br/>  
