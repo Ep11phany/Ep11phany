@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🐶 Trying my best to open-source my repos  
 
 
-- 🛡️ ISFJ-t
+- 🤞🏻 ISFP-T
   
 
 <br/>  
