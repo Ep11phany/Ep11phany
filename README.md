@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ep11phany&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ep11phany&count_private=true" align="center" /></div> 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ep11phany&column=7" align="center" /></div>
 
 <br/>  
