@@ -103,7 +103,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/58/Cython_logo.svg" alt="C
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats-wheat-alpha.vercel.app/api?username=Ep11phany" align="center" /></div> 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ep11phany&column=7&include_all_commits=true" align="center" /></div>
+<div align="center"><img src="https://github-profile-trophy-delta.vercel.app/?username=Ep11phany&column=7&include_all_commits=true" align="center" /></div>
 
 <br/>  
 
